@@ -16,5 +16,7 @@ public class Sample {
 		// master 브랜치
 		
 		// 1
+		
+		// 2
 	}
 }
