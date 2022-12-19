@@ -41,6 +41,8 @@ public class Sample {
 		// test branch 2222
 		
 		// test branch 3333
+		
+		// bug-fix 새로운곳을 수정했습니다.
 
 
 
