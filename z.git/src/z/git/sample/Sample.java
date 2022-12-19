@@ -49,7 +49,7 @@ public class Sample {
 		
 
 		// 테스트브랜치도 진행중
-		// bug-fix는 계속 진행중
+		// bug-fix는 계속 진행중 22
 
 
 
